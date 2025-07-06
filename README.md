@@ -7,7 +7,7 @@
 
 
 <!-- ⭐ ⚡ 🔭 🌱 👨‍💻 💬 📫  -->
-- I am a CSE Graduate from ![Khulna University of Engineering & Technology](../mizanurasif/kuet-logo.png "KUET")
+- I am a CSE Graduate from ![Khulna University of Engineering & Technology](https://github.com/mizanurasif/mizanurasif/blob/main/kuet-logo.png "KUET")
 <!--  -  I’m currently working on [name](link) -->
 - I am currently working with VS Extension and a dignostic tool called Tizen Doctor. 
 
@@ -26,22 +26,22 @@
   <h3 align="left">Languages and Tools:</h3>
   <p align="left"> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-      <img src="../mizanurasif/c.svg" alt="c" width="40" height="40"/> </a> 
+      <img src="https://github.com/mizanurasif/mizanurasif/blob/main/c.svg" alt="c" width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">     
-      <img src="../mizanurasif/c++.svg" alt="cplusplus" width="40" height="40"/> </a>
+      <img src="https://github.com/mizanurasif/mizanurasif/blob/main/c++.svg" alt="cplusplus" width="40" height="40"/> </a>
        <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank" rel="noreferrer"> 
-      <img src="../mizanurasif/c sharp.svg" alt="C Sharp" width="40" height="40"/> </a> 
+      <img src="https://github.com/mizanurasif/mizanurasif/blob/main/c sharp.svg" alt="C Sharp" width="40" height="40"/> </a> 
     <a href="https://www.java.com" tar get="_blank" rel="noreferrer"> 
-      <img src="../mizanurasif/java.svg" alt="java" width="40" height="40"/> </a> 
+      <img src="https://github.com/mizanurasif/mizanurasif/blob/main/java.svg" alt="java" width="40" height="40"/> </a> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-      <img src="../mizanurasif/python-5.svg" alt="python" width="40" height="40"/> </a> 
+      <img src="https://github.com/mizanurasif/mizanurasif/blob/main/python-5.svg" alt="python" width="40" height="40"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-      <img src="../mizanurasif/javascript-1.svg" alt="javascript" width="40" height="40"/> </a> 
+      <img src="https://github.com/mizanurasif/mizanurasif/blob/main/javascript-1.svg" alt="javascript" width="40" height="40"/> </a> 
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-      <img src="../mizanurasif/nodejs-1.svg" alt="nodejs" width="40" height="40"/> </a> 
+      <img src="https://github.com/mizanurasif/mizanurasif/blob/main/nodejs-1.svg" alt="nodejs" width="40" height="40"/> </a> 
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-      <img src="../mizanurasif/react-2.svg" alt="react" width="40" height="40"/> </a> 
+      <img src="https://github.com/mizanurasif/mizanurasif/blob/main/react-2.svg" alt="react" width="40" height="40"/> </a> 
     <a href="https://www.tizen.org/" target="_blank" rel="noreferrer"> 
       <img src="https://github.com/mizanurasif/mizanurasif/blob/main/Tizen-Pinwheel-On-Light-RGB.png" alt="tizen" width="40" height="40"/> </a> 
    <!--  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
@@ -57,7 +57,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
     -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-      <img src="../mizanurasif/pytorch-2.svg" alt="javascript" width="40" height="40"/> </a> 
+      <img src="https://github.com/mizanurasif/mizanurasif/blob/main/pytorch-2.svg" alt="javascript" width="40" height="40"/> </a> 
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
     <!--
@@ -85,9 +85,9 @@
     <a href="https://codeforces.com/profile/__tamim1" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mizaurasif" height="30" width="40" /></a>
      <a href="https://www.facebook.com/mdmizanurrahman.asif.7"target="blank">
-      <img align="center" src="../mizanurasif/facebook.svg" alt="21304875" height="30" width="40" /></a> 
+      <img align="center" src="https://github.com/mizanurasif/mizanurasif/blob/main/facebook.svg" alt="21304875" height="30" width="40" /></a> 
     <!-- <a href="https://leetcode.com/u/mizanurasif/" target="blank">
-      <img align="center" src="../mizanurasif/leetcode.svg" alt="21304875" height="30" width="40" /></a> -->
+      <img align="center" src="https://github.com/mizanurasif/mizanurasif/blob/main/leetcode.svg" alt="21304875" height="30" width="40" /></a> -->
      <!--
     <a href="https://www.kaggle.com/noormuhammadtamim" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anirudhrai693" height="30" width="40" /></a>
