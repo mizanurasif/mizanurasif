@@ -7,7 +7,7 @@
 
 
 <!-- ⭐ ⚡ 🔭 🌱 👨‍💻 💬 📫  -->
-- I am a CSE Graduate from ![Khulna University of Engineering & Technology](https://github.com/mizanurasif/mizanurasif/blob/main/kuet-logo.png "KUET")
+- I am a CSE Graduate from Khulna University of Engineering & Technology
 <!--  -  I’m currently working on [name](link) -->
 - I am currently working with VS Extension and a dignostic tool called Tizen Doctor. 
 
