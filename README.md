@@ -12,7 +12,7 @@
 - I am currently learning Spring Boot, VueJs  
 <!-- -  All of my projects are available at [https://tamim.co/portfolio](https://tamim.co) -->
 <!-- - Ask me about **C,C++,git** -->
-- Reach me through **noormuhammadtamim@gmail.com**
+- Reach me through **mizanrasif02@gmail.com**
 
 
 <!-- coding gif-->
