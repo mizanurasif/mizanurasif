@@ -8,8 +8,8 @@
 
 <!-- ⭐ ⚡ 🔭 🌱 👨‍💻 💬 📫  -->
 - I am a CSE Graduate from [Khulna University of Engineering & Technology](https://www.kuet.ac.bd).
-- I am currently working on [Samsung R&D Institute Bangladesh](https://research.samsung.com/srbd).
-- I am currently working with VS Extension and a dignostic tool called Tizen Doctor. 
+- I am currently working in [Samsung R&D Institute Bangladesh](https://research.samsung.com/srbd).
+- I am currently working on VS Extension and a dignostic tool called Tizen Doctor. 
 - Reach me through **mizanurasif02@gmail.com**
 
 
