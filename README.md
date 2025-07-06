@@ -26,7 +26,7 @@
   <h3 align="left">Languages and Tools:</h3>
   <p align="left"> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-      <img src="../c.svg" alt="c" width="40" height="40"/> </a> 
+      <img src="../mizanurasif/c.svg" alt="c" width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">     
       <img src="../mizanurasif/c++.svg" alt="cplusplus" width="40" height="40"/> </a>
        <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank" rel="noreferrer"> 
@@ -43,7 +43,7 @@
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
       <img src="../mizanurasif/react-2.svg" alt="react" width="40" height="40"/> </a> 
     <a href="https://www.tizen.org/" target="_blank" rel="noreferrer"> 
-      <img src="../mizanurasif/Tizen-Pinwheel-On-Light-RGB.png" alt="tizen" width="40" height="40"/> </a> 
+      <img src="https://github.com/mizanurasif/mizanurasif/blob/main/Tizen-Pinwheel-On-Light-RGB.png" alt="tizen" width="40" height="40"/> </a> 
    <!--  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> -->
 <!--     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
