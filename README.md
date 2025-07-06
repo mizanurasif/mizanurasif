@@ -81,7 +81,7 @@
 <div>
   <h3 align="left">Connect with me:</h3>
   <p align="left">
-    <a href="https://www.linkedin.com/in/tamim87/" target="blank">
+    <a href="https://www.linkedin.com/in/mizanurasif/" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noor-muhammad-tamim" height="30" width="40" /></a>
     <a href="https://codeforces.com/profile/__tamim1" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="__tamim1" height="30" width="40" /></a>
@@ -100,7 +100,7 @@
 
 <div>
   <!--  visitor count -->
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamim87&label=Profile%20views&color=0e75b6&style=flat" alt="tamim87" /> </p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=mizanurasif&label=Profile%20views&color=0e75b6&style=flat" alt="mizanurasif" /> </p>
 </div>
 
 
@@ -119,17 +119,17 @@
 <hr width="100%">
 <details aligh="left"> 
   <summary> ✌️ My GitHub Analytics </summary><br>
-<p><img width="100%" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamim87&show_icons=true&locale=en&layout=compact&theme=radical" alt="tamim87" /></p>
+<p><img width="100%" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mizanurasif&show_icons=true&locale=en&layout=compact&theme=radical" alt="mizanurasif" /></p>
   <br><br><br><br><br><br><br>
-<p>&nbsp;<img width="100%" height="250px" align="left" src="https://github-readme-stats.vercel.app/api?username=tamim87&show_icons=true&locale=en&theme=radical" alt="tamim87" /></p>
+<p>&nbsp;<img width="100%" height="250px" align="left" src="https://github-readme-stats.vercel.app/api?username=mizanurasif&show_icons=true&locale=en&theme=radical" alt="mizanurasif" /></p>
   <br><br><br><br><br><br><br><br><br><br><br><br>
-<p><img width="100%" height="250px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tamim87&theme=radical" alt="tamim87" /></p>
+<p><img width="100%" height="250px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mizanurasif&theme=radical" alt="mizanurasif" /></p>
       <br><br><br><br><br><br><br><br><br><br>
 </details>
 
 
 <!--
-**tamim87/tamim87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mizanurasif/mizanurasif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there, I'm Tamim. 👋
 
 
