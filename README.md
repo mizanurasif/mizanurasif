@@ -7,8 +7,8 @@
 
 
 <!-- ⭐ ⚡ 🔭 🌱 👨‍💻 💬 📫  -->
-- I am a CSE Graduate from Khulna University of Engineering & Technology
-<!--  -  I’m currently working on [name](link) -->
+- I am a CSE Graduate from [Khulna University of Engineering & Technology](www.kuet.ac.bd).
+- I’m currently working on [Samsung R&D Institute Bangladesh]([link](https://research.samsung.com/srbd).
 - I am currently working with VS Extension and a dignostic tool called Tizen Doctor. 
 
 <!-- - Ask me about **C,C++,git** -->
