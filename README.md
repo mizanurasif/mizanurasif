@@ -12,7 +12,7 @@
 - I am currently working with VS Extension and a dignostic tool called Tizen Doctor. 
 
 <!-- - Ask me about **C,C++,git** -->
-- Reach me through **mizanrasif02@gmail.com**
+- Reach me through **mizanurasif02@gmail.com**
 
 
 <!-- coding gif-->
