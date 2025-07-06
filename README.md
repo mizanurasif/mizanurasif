@@ -26,7 +26,7 @@
   <h3 align="left">Languages and Tools:</h3>
   <p align="left"> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-      <img src="../mizanurasif/c.svg" alt="c" width="40" height="40"/> </a> 
+      <img src="../c.svg" alt="c" width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">     
       <img src="../mizanurasif/c++.svg" alt="cplusplus" width="40" height="40"/> </a>
        <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank" rel="noreferrer"> 
